@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "./bin/www"
 
 hidden = [".config", "package-lock.json"]
 
